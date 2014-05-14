@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/Samples/MobileApps/ApiDemos/app/src/main/res/values-v16/bools.xml -->
+    <eat-comment />
+
+    <bool name="atLeastJellyBean">true</bool>
+
+</resources>
